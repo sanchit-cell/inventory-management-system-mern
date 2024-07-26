@@ -1,6 +1,4 @@
-Certainly! Here's a sample `README.md` file for your Inventory Management System project:
 
-```markdown
 # Inventory Management System
 
 An Inventory Management System built using the MERN stack (MongoDB, Express.js, React.js, Node.js).
@@ -88,19 +86,14 @@ An Inventory Management System built using the MERN stack (MongoDB, Express.js, 
 2. **Run the frontend server:**
    ```bash
    cd frontend
-   npm start
+   npm run dev
    ```
 
 3. **Open the application:**
-   Open your browser and navigate to `http://localhost:3000`
+   Open your browser and navigate to `http://localhost:5173`
 
 ## Contributing
 
 Contributions are welcome! Please fork the repository and submit a pull request.
 
-## License
 
-This project is licensed under the MIT License.
-```
-
-Feel free to customize this template to better fit your project. If you have additional details or sections to include, you can easily expand on this base structure.
